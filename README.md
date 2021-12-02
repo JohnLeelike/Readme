@@ -1,6 +1,6 @@
 ![Ripple](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Ripple_logo.svg/1280px-Ripple_logo.svg.png)
 # A Ripple Case Study
-## Case study on the enterprise blockchain company Ripple
+## A Case study on the enterprise blockchain company Ripple
 ### Overview and Origin
 ---
 Ripple was conceived by Jed McCaleb and built by Arthur Britto and David Schwartz who then approached Ryan Fugger. Fugger had developed a system called OpenCoin which would transform into Ripple, a real-time gross settlement system, currency exchange and remittance network created by Ripple Labs Inc. The company also created its own form of digital currency referred to as XRP to allow financial institutions to transfer money with negligible fees and wait-time. Initially resleased in 2012, the technology was adopted by several banks as a messaging and payment system. It has recently recieved scrutiny from the SEC over raising over $1 billion in funds from investors by selling it's XRP token which is described as an unregistered security.
