@@ -157,4 +157,4 @@ https://blockgeeks.com/guides/ripple-vs-stellar-ultimate-comparison-guide/
 
 https://cointelegraph.com/news/xlm-price-gains-30-in-a-day-as-positive-sentiment-shifts-from-xrp-to-stellar
 
-Contributors: John Leelike
+*Contributors: John Leelike*
