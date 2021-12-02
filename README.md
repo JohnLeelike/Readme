@@ -145,6 +145,8 @@ Stellar's biggest break came in October when IBM announced that it had partnered
 ---
 If I were to advise the company, I would advise them to offer a more decentralized option for their payment product which would be more trusted by the community of cryptocurrency enthusiasts. XRP's lack of decentralization is it's biggest detriment to adoption among anybody who is in crypto for it's ideology and not just the money to be made with speculation. This would be beneficial because it would be more secure, since an immutable and decentralized currency is the only one which is fully trustable and unable to be manipulated. This change would require the use of more traditional blockchain that utilizes either proof-of-work, proof-of-stake, or a similar consensus method to process transactions instead of the centralized method which Ripple currently uses. These protocols are appropriate as a preffered consensus solution because they have been thoroughly tested and implemented many times before in other coins.
 
+Another Recommendation I would make is to conduct their token sale in a better way so as to avoid the legal woes they are now experiencing from the SEC. It's possible they conducted a sale of unregistered securities which would be highly illegal and they face repercussions for not properly securitizing their token and doing a different type of offering, and making promises about it's use which haven't been delivered. There were many ways around this and the fact they kept minting and releasing tokens on the public does not look good in the eyes of the law, no matter what they are aiming to do.
+
 ### Citations:
 ---
 https://ripple.com/
