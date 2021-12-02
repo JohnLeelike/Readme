@@ -30,7 +30,11 @@ The most direct competitor to Ripple would be Stellar Lumen. In their early days
 
 Both Stellar and Ripple bring exceptionally fast and inexpensive transaction processing to the table. Ripple's transactions cost just a fraction of a penny and can be settled within seconds, while Stellar claims an average settlement time of two to five seconds, with 100,000 transactions costing just $0.01. Comparably, transactions on Ethereum's blockchain take longer and cost much more. 
 
+![Sentiment](https://s3.cointelegraph.com/uploads/2021-01/21a593b0-0bd3-4354-9060-2efb3e78ca22.jpg)
+
 The Stellar Development Foundation is also run as a nonprofit that aims to resolve the lack of access people all around the globe have to banking. In addition to securing digital identities, blockchain technology offers the ability for the underbanked population to exchange virtual currency without traditional bank accounts. Comparably, Ripple is a for-profit organization that's primarily focused on securing deals with large financial institutions. That's not to say Stellar isn't focusing on what it can do for big businesses, so much as to point out the variances between their nonprofit and for-profit approaches.
+
+![Comparison](https://blockgeeks.com/wp-content/uploads/2019/06/Screen-Shot-2019-06-19-at-12.45.21-PM-1024x502.png.webp)
 
 Where Stellar could really stand out and give Ripple a run for its money (pun intended) is in regard to its decentralization. Though it's somewhat argumentative, Ripple's network is considered to be far more centralized than Stellar, even though the Stellar Development Foundation also controls a majority of Lumens. As noted by the website Invest in Blockchain, Ripple faced backlash in 2015 when founder McCaleb left the company and his funds were frozen. This drew attention to the fact that Ripple's controlling members could put the kibosh on anything they didn't like, which is the opposite of the decentralization that's at the heart of crypto use. Stellar hasn't faced nearly the same backlash from the crypto community. 
 ### Results
