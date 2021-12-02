@@ -3,12 +3,12 @@
 ## A case study on enterprise blockchain company Ripple
 ### Overview and Origin
 ---
-Ripple was conceived by Jed McCaleb and built by Arthur Britto and David Schwartz who then approached Ryan Fugger. Fugger had developed a system called OpenCoin which would transform into Ripple, a real-time gross settlement system, currency exchange and remittance network created by Ripple Labs Inc. The company also created its own form of digital currency referred to as XRP to allow financial institutions to transfer money with negligible fees and wait-time. Initially resleased in 2012, the technology was adopted by several banks as a messaging and payment system. It has recieved scrutiny from the SEC over raising over $1 billion in funds from investors by selling it's XRP token which is described as an unregistered security.
+Ripple was conceived by Jed McCaleb and built by Arthur Britto and David Schwartz who then approached Ryan Fugger. Fugger had developed a system called OpenCoin which would transform into Ripple, a real-time gross settlement system, currency exchange and remittance network created by Ripple Labs Inc. The company also created its own form of digital currency referred to as XRP to allow financial institutions to transfer money with negligible fees and wait-time. Initially resleased in 2012, the technology was adopted by several banks as a messaging and payment system. It has recently recieved scrutiny from the SEC over raising over $1 billion in funds from investors by selling it's XRP token which is described as an unregistered security.
 ### Business Activities
 ---
-The major financial problem Ripple is trying to solve is how payments are transacted between banks. The banking system currently uses a payment network called SWIFT which can be slow and is opague. Ripple's payment network which is based on a blockchain-like protocol is much more transparent, secure, and fast which many view as an improvement on the current system, even though it is not fully decentralized. The size of the market that Ripple is disrupting is in the quadrillions of dollars per year. According the US Treasury, SWIFT handles about $5 trillion per day, or given about 250 business days per year, about $1.25 quadrillion dollars a year. Similarly, CHIPS handles about $400 trillion per year, and Fedwire handles around $900 trillion per year (most of both of these arise out of SWIFT messages). These transactions make up a large fraction of electronic transactions in the world, so it's safe to assume that the global total isn't much more than a few quadrillion dollars a year. There is plenty to gain for Ripple / XRP.
+The major financial problem Ripple is trying to solve is how global payments are transacted between banks, and other financial institutions. The banking system currently uses a payment network called SWIFT which can be slow and is costly. Ripple's payment network which is based on a blockchain-like protocol is much more transparent, secure, and fast which many view as an improvement on the current system, even though it is not fully decentralized. The size of the market that Ripple is disrupting is in the quadrillions of dollars per year. According the US Treasury, SWIFT handles about $5 trillion per day, or given about 250 business days per year, about $1.25 quadrillion dollars a year. Similarly, CHIPS handles about $400 trillion per year, and Fedwire handles around $900 trillion per year (most of both of these arise out of SWIFT messages). These transactions make up a large fraction of electronic transactions in the world, so it's safe to assume that the global total isn't much more than a few quadrillion dollars a year. There is plenty of market to gain for Ripple.
 
-The main technology Ripple offers that it's competitors don't is blockchain. It has it's own unique consensus protocol which ensures that payments aren't double-spent:
+The main technology Ripple offers that the current system lacks is blockchain. It has it's own unique consensus protocol which ensures that payments aren't double-spent, described on it's website the following way:
 
 >Trust-Based Validation
 >
@@ -124,10 +124,9 @@ Here is the output:
 As you can see it can be fairly straightfoward working with the Ripple Library.
 ### Landscape
 ---
-Ripple is in the Blockchain and Cryptocurrencies Financial Industry Domain, specifically utilizing blockchain as a payment protocol for remittances largely aimed at innovating the banking sector. Over the last 5-10 years blockchain and cryptocurrency has disrupted the remittance and payment sector on a global scale, even surpassing the valuation of traditional legacy companies such as VISA and Mastercard. Although Bitcoin was the first, Ripple has emerged as an early contender for implementing blockchain within banks. 
-The most direct competitor to Ripple would be Stellar Lumen. In their early days, Stellar and Ripple were a lot alike because Jed McCaleb helped found both cryptocurrencies. Today, however, there are marked differences, even though Stellar occupies a similar niche in targeting financial services, as does Ripple.
+Ripple is in the Blockchain and Cryptocurrencies Financial Industry Domain, specifically utilizing blockchain as a payment protocol for remittances, largely aimed at innovating the banking sector. Over the last 5-10 years blockchain and cryptocurrency has disrupted the remittance and payment sector on a global scale, even surpassing the valuation of traditional legacy companies such as VISA and Mastercard. Although Bitcoin was the first, Ripple has emerged as an early contender for implementing blockchain within banks.
 
-Both Stellar and Ripple bring exceptionally fast and inexpensive transaction processing to the table. Ripple's transactions cost just a fraction of a penny and can be settled within seconds, while Stellar claims an average settlement time of two to five seconds, with 100,000 transactions costing just $0.01. Comparably, transactions on Ethereum's blockchain take longer and cost much more. The Stellar Development Foundation is also run as a nonprofit that aims to resolve the lack of access people all around the globe have to banking. In addition to securing digital identities, blockchain technology offers the ability for the underbanked population to exchange virtual currency without traditional bank accounts. Comparably, Ripple is a for-profit organization that's primarily focused on securing deals with large financial institutions. That's not to say Stellar isn't focusing on what it can do for big businesses, so much as to point out the variances between their nonprofit and for-profit approaches.
+The most direct competitor to Ripple would be Stellar Lumen. In their early days, Stellar and Ripple were a lot alike because Jed McCaleb helped found both cryptocurrencies. Today, however, there are marked differences, even though Stellar occupies a similar niche in targeting financial services, as does Ripple. Both Stellar and Ripple bring exceptionally fast and inexpensive transaction processing to the table. Ripple's transactions cost just a fraction of a penny and can be settled within seconds, while Stellar claims an average settlement time of two to five seconds, with 100,000 transactions costing just $0.01. Comparably, transactions on Ethereum's blockchain take longer and cost much more. The Stellar Development Foundation is also run as a nonprofit that aims to resolve the lack of access people all around the globe have to banking. In addition to securing digital identities, blockchain technology offers the ability for the underbanked population to exchange virtual currency without traditional bank accounts. Comparably, Ripple is a for-profit organization that's primarily focused on securing deals with large financial institutions. That's not to say Stellar isn't focusing on what it can do for big businesses, so much as to point out the variances between their nonprofit and for-profit approaches.
 
 ![Comparison](https://blockgeeks.com/wp-content/uploads/2019/06/Screen-Shot-2019-06-19-at-12.45.21-PM-1024x502.png.webp)
 >A chart comparing Ripple and Stellar
@@ -149,5 +148,14 @@ If I were to advise the company, I would advise them to offer a more decentraliz
 
 ### Citations:
 ---
+https://ripple.com/
+
+https://xrpl.org/
+
+https://www.fool.com/investing/2018/03/29/ripples-biggest-competitor-isnt-ethereum-its-this.aspx
+
+https://blockgeeks.com/guides/ripple-vs-stellar-ultimate-comparison-guide/
+
+https://cointelegraph.com/news/xlm-price-gains-30-in-a-day-as-positive-sentiment-shifts-from-xrp-to-stellar
 
 Contributors: John Leelike
